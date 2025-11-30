@@ -9,14 +9,14 @@ Your mission: parse a map, validate it, load textures, and allow the player to m
 
 1. [Introduction](#-introduction)
 2. [Project Overview](#-project-overview)
-3. [How It Works](#-how-it-works)
-4. [Map Parsing & Validation](#-map-parsing--validation)
+3. [How It Works](#%EF%B8%8F-how-it-works)
+4. [Map Parsing & Validation](#%EF%B8%8F-map-parsing--validation)
 5. [Rendering Pipeline](#-rendering-pipeline)
 6. [Player Movement](#-player-movement)
 7. [Program Flow](#-program-flow)
 8. [Error Handling](#-error-handling)
-9. [Compilation](#-compilation)
-10. [Usage](#-usage)
+9. [Compilation](#%EF%B8%8F-compilation)
+10. [Usage](#%EF%B8%8F-usage)
 11. [Project Structure](#-project-structure)
 
 ---
